@@ -60,6 +60,10 @@ footer{
     background-color: #7FB7C0;
     color: white;
     text-align: center;
-    height: 4em;
-    padding-top: 2em;
+    height: 50px;
+    padding-top: 8px;  
+    position: absolute;
+    bottom: 1px;
+    width: 100%;
+    margin-left: 0px;
 }
